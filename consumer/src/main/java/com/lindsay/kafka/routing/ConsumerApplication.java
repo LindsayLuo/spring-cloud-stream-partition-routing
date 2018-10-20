@@ -1,4 +1,4 @@
-package com.aaxiscommerce.kafka.routing;
+package com.lindsay.kafka.routing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

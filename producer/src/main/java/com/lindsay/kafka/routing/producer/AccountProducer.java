@@ -1,7 +1,7 @@
-package com.aaxiscommerce.kafka.routing.producer;
+package com.lindsay.kafka.routing.producer;
 
-import com.aaxiscommerce.kafka.routing.messaging.AccountChannel;
-import com.aaxiscommerce.kafka.routing.pojo.Account;
+import com.lindsay.kafka.routing.messaging.AccountChannel;
+import com.lindsay.kafka.routing.pojo.Account;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cloud.stream.annotation.EnableBinding;

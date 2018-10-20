@@ -1,4 +1,4 @@
-package com.aaxiscommerce.kafka.routing;
+package com.lindsay.kafka.routing;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

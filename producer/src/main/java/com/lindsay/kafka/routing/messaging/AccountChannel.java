@@ -1,4 +1,4 @@
-package com.aaxiscommerce.kafka.routing.messaging;
+package com.lindsay.kafka.routing.messaging;
 
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;

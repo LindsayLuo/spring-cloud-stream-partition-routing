@@ -1,4 +1,4 @@
-package com.aaxiscommerce.kafka.routing.pojo;
+package com.lindsay.kafka.routing.pojo;
 
 public class Account {
 
