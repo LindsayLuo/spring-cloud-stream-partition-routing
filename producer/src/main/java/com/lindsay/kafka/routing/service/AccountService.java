@@ -18,7 +18,7 @@ public class AccountService {
     @Autowired
     private AccountChannel accountChannel;
 
-    public void sendAccountMssage() {
+    public void sendAccountMessage() {
         accountChannel.output().send(MessageBuilder.withPayload(retrieveAccount()).build());
     }
 

@@ -19,7 +19,7 @@ public class AccountController {
     @RequestMapping("account")
     public String sendAccount() {
         LOGGER.debug("controller : send account");
-        accountService.sendAccountMssage();
+        accountService.sendAccountMessage();
         return "Send account successfully";
     }
 }
